@@ -8,6 +8,7 @@ The goal was to practice frontend development skills such as **layout design, re
 ## media
 
 <img src= "./img1.png" width=450px></img>
+<hr>
 <img src= "./img2.png" width = 450px></img>
 
 
